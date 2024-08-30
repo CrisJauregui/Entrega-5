@@ -1,0 +1,13 @@
+body {
+    
+    background-color: #FEE6A8;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
